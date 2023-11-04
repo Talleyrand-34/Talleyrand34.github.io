@@ -3,4 +3,5 @@
 - Pasos
 	- Abrir la aplicacion Apps
 	- Abrir Google play services
-	- Instalar
+	- Instalar Google play services
+	- Una vez instalado
