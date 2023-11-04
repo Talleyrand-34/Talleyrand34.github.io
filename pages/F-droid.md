@@ -1,4 +1,8 @@
 - Pasos
 	- Entrar a la aplicacion Vanadium
 	- Entrar a la web https://f-droid.org
+	- Descargar F-droid apk
+	- Permitir instalacion desde Vanadium
+	- Instalar F-droid apk
+	- Deshabilitar instalacion desde Vanadium
 	-
