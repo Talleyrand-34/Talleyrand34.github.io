@@ -6,4 +6,4 @@
 	- Instalar F-droid apk
 	- Deshabilitar instalacion desde Vanadium
 - Como usar F-droid
-	- Puedes1
+	-
