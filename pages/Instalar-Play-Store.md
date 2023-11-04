@@ -1,3 +1,4 @@
 - Recomendacion inicial
 	- Instalar Google Play en un usuario adicional
--
+- Pasos
+	-
