@@ -3,5 +3,7 @@
 - Instalar Aplicaciones de software libre
 	- [[F-droid]]
 - Gestionar usuarios
-	- -
+	- [[Usuarios-GrapheneOS]]
 - Instalar Google play
+	- [[Instalar-Play-Store]]
+	-
