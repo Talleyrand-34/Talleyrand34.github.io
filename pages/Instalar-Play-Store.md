@@ -1,4 +1,6 @@
 - Recomendacion inicial
 	- Instalar Google Play en un usuario adicional
 - Pasos
-	-
+	- Abrir la aplicacion Apps
+	- Abrir Google play services
+	- Instalar
