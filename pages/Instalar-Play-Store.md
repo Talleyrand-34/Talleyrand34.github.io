@@ -4,4 +4,4 @@
 	- Abrir la aplicacion Apps
 	- Abrir Google play services
 	- Instalar Google play services
-	- Una vez instalado
+	- Una vez instalado, entrar en la cuenta propia
