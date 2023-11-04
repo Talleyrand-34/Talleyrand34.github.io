@@ -16,5 +16,5 @@
 			- Permitir de fuentes primarias
 				- Permitir de fuentes autorizadas en el usuario principal
 			- No permitir
-		- Instalar aplicaciones
+		- Instalar aplicaciones disponibles
 	-
