@@ -7,4 +7,6 @@
 	- Deshabilitar instalacion desde Vanadium
 - Como usar F-droid
 	- Al entrar se te presentan aplicaciones
-	- Escoge
+	- Escoge la que quieras instalar
+	- Si es la primera vez que instalas una aplicacion tendras que darle permiso a F-droid
+	-
