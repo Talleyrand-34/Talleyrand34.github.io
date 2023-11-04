@@ -7,5 +7,6 @@
 	- Configuracion de usuario
 		- Cambiar Usuario
 			- Cambia instantaneamente al usuario
-		-
+		- Correr en segundo plano
+			- Al salir del usuario este para, si se desea que contin
 	-
