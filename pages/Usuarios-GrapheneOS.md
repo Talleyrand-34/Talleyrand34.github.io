@@ -10,5 +10,7 @@
 		- Correr en segundo plano
 			- Al salir del usuario este para, si se desea que continúe se activa esta accion
 		- Permitir telefono y sms
-		-
+		- Instalar aplicaciones y actualizaciones
+			- Permitir
+			-
 	-
