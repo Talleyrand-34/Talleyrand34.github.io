@@ -1,3 +1,4 @@
 - Habilitar
 	- Entrar a 'Ajustes'
+	- Entrar a
 	-
