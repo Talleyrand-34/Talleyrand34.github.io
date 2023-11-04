@@ -1,0 +1,3 @@
+- Habilitar
+	- Entrar a 'Ajustes'
+	-
