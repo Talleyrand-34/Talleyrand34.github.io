@@ -1,4 +1,7 @@
 - Habilitar
 	- Entrar a 'Ajustes'
-	- Entrar a
+	- Entrar a 'Sistema'
+	- Entrar a 'Usuarios'
+	- Activar
+	- Añadir Usuario
 	-
