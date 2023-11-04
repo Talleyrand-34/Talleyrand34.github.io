@@ -1,3 +1,4 @@
 - Pasos
 	- Entrar a la aplicacion Vanadium
+	- Entrar a la web https://f-droid.org
 	-
