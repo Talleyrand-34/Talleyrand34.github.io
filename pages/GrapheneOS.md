@@ -1,3 +1,7 @@
 - Como instalar GrapheneOS
 	- [[Instalar-GrapheneOS]]
 - Instalar Aplicaciones de software libre
+	- [[F-droid]]
+- Gestionar usuarios
+	- -
+- Instalar Google play
