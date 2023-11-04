@@ -12,5 +12,9 @@
 		- Permitir telefono y sms
 		- Instalar aplicaciones y actualizaciones
 			- Permitir
-			-
+				- Sin restricciones
+			- Permitir de fuentes primarias
+				- Permitir de fuentes autorizadas en el usuario principal
+			- No permitir
+		- Instalar aplicaciones
 	-
