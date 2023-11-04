@@ -1,3 +1,3 @@
 - Como instalar GrapheneOS
 	- [[Instalar-GrapheneOS]]
-	-
+- Instalar Aplicaciones de software libre
