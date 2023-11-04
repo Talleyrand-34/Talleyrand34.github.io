@@ -4,4 +4,8 @@
 	- Entrar a 'Usuarios'
 	- Activar
 	- Añadir Usuario
+	- Configuracion de usuario
+		- Cambiar Usuario
+			- Cambia instantaneamente al usuario
+		-
 	-
