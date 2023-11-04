@@ -8,5 +8,7 @@
 		- Cambiar Usuario
 			- Cambia instantaneamente al usuario
 		- Correr en segundo plano
-			- Al salir del usuario este para, si se desea que contin
+			- Al salir del usuario este para, si se desea que continúe se activa esta accion
+		- Permitir telefono y sms
+		-
 	-
