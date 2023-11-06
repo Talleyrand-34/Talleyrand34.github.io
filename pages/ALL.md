@@ -18,6 +18,9 @@
 	- Veracrypt
 	- Hardware key
 	- Whonix / QubesOS
+	- Encrypted harddrive
+	- Sim hotspot
+	- Sk
 	-
 - Menciones
 	- riseup
