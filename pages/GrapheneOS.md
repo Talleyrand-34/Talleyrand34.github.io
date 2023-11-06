@@ -1,5 +1,6 @@
 - Por ques
-	-
+	- Por que necesito preocuparme por mi seguridad
+	- Por que necesito preocuparme por mi privacidad
 - Necesidades
 	- Cambiar SIM
 	- Como exportar contactos
