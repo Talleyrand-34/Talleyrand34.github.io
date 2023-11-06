@@ -6,11 +6,14 @@
 		- Patentes
 - Proyectos
 	- [[GrapheneOS]]
--
+	- [[VPN]]
 - Herramientas
 	- Servidor propio
 		- Pihole
 	- IPFS
 	- StealhX
+	- Cryptowallet
+	- Notesnook?
 	-
--
+- Menciones
+	- riseup
