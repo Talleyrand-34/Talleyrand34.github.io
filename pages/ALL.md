@@ -2,6 +2,8 @@
 	- Por ques
 		- Por que necesito preocuparme por mi seguridad
 		- Por que necesito preocuparme por mi privacidad
+		- Por que la descentralizacion es importante
+		- Patentes
 - Proyectos
 	- [[GrapheneOS]]
 -
