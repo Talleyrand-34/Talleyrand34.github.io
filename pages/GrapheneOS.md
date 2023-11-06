@@ -1,6 +1,8 @@
-- Necesidades
-	- Como exportar contactos
+- Por ques
 	-
+- Necesidades
+	- Cambiar SIM
+	- Como exportar contactos
 - Informacion tecnica
 	- Como instalar GrapheneOS
 		- [[Instalar-GrapheneOS]]
