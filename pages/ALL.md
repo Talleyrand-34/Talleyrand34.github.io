@@ -3,6 +3,5 @@
 		- Por que necesito preocuparme por mi seguridad
 		- Por que necesito preocuparme por mi privacidad
 - Proyectos
-	-
 	- [[GrapheneOS]]
 	-
