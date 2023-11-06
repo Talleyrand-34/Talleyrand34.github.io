@@ -23,7 +23,7 @@
 	- Skiff?
 	- Hosting
 		- 1984 hosting
-		- Orange company
+		- Orange websites
 	-
 - Menciones
 	- riseup
