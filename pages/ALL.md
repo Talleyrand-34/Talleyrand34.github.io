@@ -6,4 +6,9 @@
 	- [[GrapheneOS]]
 -
 - Herramientas
+	- Servidor propio
+		- Pihole
+	- IPFS
+	- StealhX
 	-
+-
