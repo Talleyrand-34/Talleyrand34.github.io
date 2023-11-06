@@ -4,6 +4,7 @@
 		- Por que necesito preocuparme por mi privacidad
 		- Por que la descentralizacion es importante
 		- Patentes
+		- Compartimentalizacion
 - Proyectos
 	- [[GrapheneOS]]
 	- [[VPN]]
@@ -14,6 +15,9 @@
 	- StealhX
 	- Cryptowallet
 	- Notesnook?
+	- Veracrypt
+	- Hardware key
+	- Whonix / QubesOS
 	-
 - Menciones
 	- riseup
