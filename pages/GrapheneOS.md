@@ -1,9 +1,13 @@
-- Como instalar GrapheneOS
-	- [[Instalar-GrapheneOS]]
-- Instalar Aplicaciones de software libre
-	- [[F-droid]]
-- Gestionar usuarios
-	- [[Usuarios-GrapheneOS]]
-- Instalar Google play
-	- [[Instalar-Play-Store]]
+- Necesidades
+	- Como exportar contactos
 	-
+- Informacion tecnica
+	- Como instalar GrapheneOS
+		- [[Instalar-GrapheneOS]]
+	- Instalar Aplicaciones de software libre
+		- [[F-droid]]
+	- Gestionar usuarios
+		- [[Usuarios-GrapheneOS]]
+	- Instalar Google play
+		- [[Instalar-Play-Store]]
+		-
