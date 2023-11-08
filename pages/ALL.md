@@ -20,10 +20,10 @@
 	- Whonix / QubesOS
 	- Encrypted harddrive
 	- Sim hotspot
-	- Skiff?
+	- Skiff? // anonaddy
 	- Hosting
 		- 1984 hosting
 		- Orange websites
-	- 3
+	-
 - Menciones
 	- riseup
