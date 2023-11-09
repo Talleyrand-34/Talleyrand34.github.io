@@ -8,6 +8,8 @@
 - Proyectos
 	- [[GrapheneOS]]
 	- [[VPN]]
+	- [[Logseq]]
+	-
 - Herramientas
 	- Servidor propio
 		- Pihole
