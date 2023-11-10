@@ -9,6 +9,7 @@
 	- [[GrapheneOS]]
 	- [[VPN]]
 	- [[Logseq]]
+	- [[3d printing]]
 	-
 - Herramientas
 	- Servidor propio
